@@ -4,5 +4,5 @@
 誰でも書けるコードなので完全に著作権フリーです。<br>
 推奨拡大比率：100％ <br>
 
-I here by allow the usage of source code.<br>
+I here by allow the usage of this source code.<br>
 No permission needed, acquiring for commercial use and portfolios is an OKAY.<br>
